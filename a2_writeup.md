@@ -14,9 +14,19 @@ This assignment is about learning and applying the while loop and iterating thro
 
 ## Reflection Questions
 1. What was difficult for you while completing the match function?  
-The whole excersise was pretty difficult for me.  There were a lot of new concepts that i was seeing for the first time.  
+The whole excersise was pretty difficult for me.  There
+were a lot of new concepts that i was seeing for the
+first time.  It was pretty intresting and fun to learn
+though.  It seems to help me if i go through the code
+first and take notes and or make some kind of flow chart
+diagram to see how it works before i start working on
+it.  Not doing that makes things a bit more confusing and
+harder to see how everything connects.  
 
 
 2. Explain how you could use the match function for extracting information from a movie database.
-
-
+You could use the match function by giving it a input and
+then parsing the input.  Once you have the input parsed
+you can compare it to all of the saved lists of strings
+in the database and then you will be able to tell which
+list of strings it matches best.  
